@@ -4,7 +4,7 @@
 
 
 - Hi, I’m Arjun
-- I’m an early career researcher in the field of Artificial Intelligence.
+- I’m an early career interdisciplinary researcher experienced in Computational Biology, Computer Vision, In-silico drug design and Systems Biology.
 - How to reach me - [Twitter - arjunjwn](twitter.com/arjunjwn)
 
 <!---
