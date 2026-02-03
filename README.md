@@ -5,7 +5,7 @@
 
 - Hi, I’m Arjun
 - I’m an early career interdisciplinary researcher experienced in Computational Biology, Computer Vision, In-silico drug design and Systems Biology.
-- How to reach me - [Twitter - arjunjwn](twitter.com/arjunjwn)
+- How to reach me - [arjun.jwn@gmail.com](mailto:arjun.jwn@gmail.com?subject=(Contacting%20through%20GitHub))
 
 <!---
 arjunjeewan/arjunjeewan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
